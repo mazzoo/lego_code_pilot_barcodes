@@ -1,0 +1,15 @@
+generates bar codes for the Lego Code Pilot
+
+based on information found under
+http://www.elecbrick.com/lego/
+
+just call the script with the code number as argument
+
+./lego_code_pilot_barcodes.pl 0
+# generates code0.png for turning on the motor
+
+./lego_code_pilot_barcodes.pl 111
+# generates code111.png for playing a C tone
+
+
+by Matthias Wenzel under GPLv3
